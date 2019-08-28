@@ -1,0 +1,6 @@
+framework module ADCDN_BaseSDK {
+  umbrella header "ADCDN_BaseSDK.h"
+
+  export *
+  module * { export * }
+}

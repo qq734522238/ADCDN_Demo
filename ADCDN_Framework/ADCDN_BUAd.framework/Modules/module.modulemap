@@ -1,0 +1,6 @@
+framework module ADCDN_BUAd {
+  umbrella header "ADCDN_BUAd.h"
+
+  export *
+  module * { export * }
+}

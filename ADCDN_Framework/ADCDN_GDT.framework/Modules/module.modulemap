@@ -1,0 +1,6 @@
+framework module ADCDN_GDT {
+  umbrella header "ADCDN_GDT.h"
+
+  export *
+  module * { export * }
+}
