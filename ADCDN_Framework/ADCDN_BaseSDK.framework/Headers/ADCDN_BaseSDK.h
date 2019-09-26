@@ -19,5 +19,4 @@ FOUNDATION_EXPORT const unsigned char ADCDN_BaseSDKVersionString[];
 #import <ADCDN_BaseSDK/ADCDN_ConfigManager.h>
 #import <ADCDN_BaseSDK/ADCDN_SplashAdManager.h>
 #import <ADCDN_BaseSDK/ADCDN_NativeAdManager.h>
-#import <ADCDN_BaseSDK/ADCDN_MaterialMeta.h>
-#import <ADCDN_BaseSDK/ADCDN_Image.h>
+#import <ADCDN_BaseSDK/ADCDN_BannerAdManager.h>

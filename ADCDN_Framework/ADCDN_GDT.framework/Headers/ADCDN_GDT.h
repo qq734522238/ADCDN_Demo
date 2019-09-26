@@ -18,3 +18,4 @@ FOUNDATION_EXPORT const unsigned char ADCDN_GDTVersionString[];
 
 #import <ADCDN_GDT/ADCDN_GDTSplashAd.h>
 #import <ADCDN_GDT/ADCDN_GDTNativeExpressVideoAd.h>
+#import <ADCDN_GDT/ADCDN_GDTBannerAd.h>

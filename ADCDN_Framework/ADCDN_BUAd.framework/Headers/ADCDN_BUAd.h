@@ -18,6 +18,5 @@ FOUNDATION_EXPORT const unsigned char ADCDN_BUAdVersionString[];
 
 #import <ADCDN_BUAd/ADCDN_BUSplashAd.h>
 #import <ADCDN_BUAd/ADCDN_BUNativeAd.h>
-#import <ADCDN_BUAd/ADCDN_BUMaterialMeta.h>
-#import <ADCDN_BUAd/ADCDN_BUImage.h>
-
+#import <ADCDN_BUAd/ADCDN_BUDBannerAd.h>
+#import <ADCDN_BUAd/ADCDN_BUDRewardedVideoAd.h>
